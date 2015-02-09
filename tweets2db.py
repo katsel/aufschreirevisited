@@ -15,7 +15,9 @@ aufschrei.drop()
 
 #onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) ]
 
+# directory containing JSON-files (change if needed)
 d = './data/aufschrei-tweets/'
+
 files = [f for f in os.listdir(d) if os.path.isfile(os.path.join(d,f))]
 
 for file in files:
