@@ -12,6 +12,6 @@
 * Either:
   * import the tweets to your local MongoDB instance using `tweets2db.py`
   * OR: open an ssh port-forwarding connection
-  *    ssh -L 27017:localhost:27017 username@X.X.X.X
+    `ssh -L 27017:localhost:27017 username@X.X.X.X`
 * start the iPython notebook by running
     `ipython3 notebook`
