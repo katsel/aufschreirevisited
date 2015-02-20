@@ -4,7 +4,7 @@
 
 ### Requirements
 
-* Python 3.0 or higher with all neccessary packages installed (...)
+* Python 3.0 or higher with all neccessary packages installed (python3-tk, ...)
 * MongoDB (or enabled port-forwarding to an existing MongoDB instance)
 
 ### Set-up
