@@ -59,5 +59,5 @@ create statistics/timelines
 * [#aufschrei Timeline](http://aufschrei.konvergenzfehler.de/) - Display of all
 #aufschrei Tweets
 * [24 hours of an #outcry: The networked publics of a socio-political debate](http://homepage.univie.ac.at/axel.maireder/2014/02/24-hours-of-an-outcry-the-networked-publics-of-a-socio-political-debate/)
-([EJC paper]http://ejc.sagepub.com/content/early/2014/09/01/0267323114545710.abstract))
+([EJC paper](http://ejc.sagepub.com/content/early/2014/09/01/0267323114545710.abstract))
  - Analysis of the first 24 hours (timeline, content, user networks)
