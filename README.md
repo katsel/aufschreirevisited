@@ -24,7 +24,7 @@
 ssh -L 27017:localhost:27017 username@server
 ```
 * start the iPython notebook by running
-    `ipython3 notebook`
+    `ipython3 notebook --matplotlib=inline`
 
 * when done: save notebook and stop the notebook server
 * close the ssh connection by typing `exit`
