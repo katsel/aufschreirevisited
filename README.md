@@ -5,6 +5,7 @@
 ### Requirements
 
 * Python 3 with all necessary packages installed
+  * matplotlib==1.4.3
   * nltk==3.0.2
   * numpy==1.9.2
   * pandas==0.16.0
@@ -42,6 +43,10 @@ ssh -L 27017:localhost:27017 username@server
 - User stats
   * user activity (most active, ranking users by activity)
   * creating user specific corpora
+
+### Note
+The output of some of the commands can be very long and may contain many lines of text.
+The `Cell --> All Output --> Scroll Long` setting of the notebook will make reading more convenient.
 
 ### Ideas for further research
 * Does applying machine learning algorithms aid the categorization of Tweets?
