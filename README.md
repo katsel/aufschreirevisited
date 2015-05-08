@@ -4,9 +4,15 @@
 
 ### Requirements
 
-* Python 3.0 or higher with all necessary packages installed (python3-tk,
-pymongo, nltk, pandas, etc.)
-* MongoDB (or enabled port-forwarding to an existing MongoDB instance)
+* Python 3 with all necessary packages installed
+  * nltk==3.0.2
+  * numpy==1.9.2
+  * pandas==0.16.0
+  * pymongo==3.0.1
+  * python-dateutil==2.4.2
+  * pytz==2015.2
+  * six==1.9.0
+* MongoDB (or enabled port-forwarding to a remote MongoDB)
 
 ### Set-up
 
